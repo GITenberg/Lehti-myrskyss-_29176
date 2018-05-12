@@ -1,0 +1,47 @@
+_repo: Lehti-myrskyss-_29176
+_version: 0.1.0
+alternative_title: A leaf in the storm. Finnish
+contributor:
+  translator:
+    agent_name: Löfgren, Elisabeth
+    alias: Lofgren, Elisabeth
+    birthdate: 1851
+    deathdate: 1931
+    gutenberg_agent_id: '24820'
+    url: http://www.gutenberg.org/2009/agents/24820
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ouida
+    aliases:
+    - Ramée, Maria Louise
+    - De la Ramée, Louisa
+    - De la Ramee, Louise
+    - De la Ramée, Louise
+    - Ramé, Marie Louise
+    - Uida
+    - De La Rame, Louisa
+    birthdate: 1839
+    deathdate: 1908
+    gutenberg_agent_id: '1204'
+    url: http://www.gutenberg.org/2009/agents/1204
+    wikipedia: http://en.wikipedia.org/wiki/Ouida
+description: ''
+gutenberg_issued: '2009-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29176'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- Translations into Finnish'
+- !lcsh 'War stories'
+- !lcsh 'Peasants -- France -- Fiction'
+- !lcsh 'Franco-Prussian War, 1870-1871 -- Fiction'
+- !lcc 'PR'
+title: Lehti myrskyssä
+url: http://www.gutenberg.org/ebooks/29176
